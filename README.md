@@ -122,12 +122,3 @@ This project is licensed under the **Creative Commons Attribution-NonCommercial 
 > All content is intended for educational and non-commercial use only.
 
 ---
-
-## 🙋‍♂️ Author
-
-**Erric Qirahs**  
-- 🎓 Physiotherapist & Data Science Enthusiast  
-- 💡 Passionate about statistics and data-driven decision-making  
-- 📬 [Reach out on LinkedIn](https://www.linkedin.com)
-
----
