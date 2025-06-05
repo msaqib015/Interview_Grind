@@ -1,4 +1,4 @@
-# 📄 `LICENSE`
+LICENSE
 
 ```
 Creative Commons Attribution-NonCommercial 4.0 International
@@ -22,4 +22,3 @@ No additional restrictions — You may not apply legal terms or technological me
 
 Disclaimer:
 This content is provided for educational purposes only. All third-party brand names, product names, or trademarks mentioned in the material are the property of their respective owners and are used for identification purposes only.
-```
